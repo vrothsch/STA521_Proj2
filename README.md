@@ -13,9 +13,9 @@ To apply this code, load the image data into R. This data contains the three pic
 This .R file contains the code for a generic cross valdation function. Open this file in R and make sure to load it in when you load in the data. 
 
 # Latex files 
-These are the raw latex file for reproducing our report:  
+These are the raw latex file for reproducing our report: <br>  
 
-main.tex reproudces the written report in its entirety. 
-Table2.tex reproduces Table 2. 
-Table3.tex reproduces Table 3. 
-Fig1.png-Fig6.png are Figure 1-6.  
+main.tex reproudces the written report in its entirety. <br>
+Table2.tex reproduces Table 2. <br>
+Table3.tex reproduces Table 3. <br> 
+Fig1.png-Fig6.png are Figure 1-6. <br>  
